@@ -1,11 +1,11 @@
 {
-    "name": "flutter_application_1",
-    "short_name": "flutter_application_1",
+    "name": "Dusan Photo Nesvady",
+    "short_name": "Dusan Photo Nesvady",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Dusan Photo Nesvady, Naszvad, Fotozás, Fényképezés, Nesvad",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
